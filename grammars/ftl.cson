@@ -1,0 +1,13 @@
+'scopeName': 'source.ftl'
+
+'fileTypes': [
+    'ftl'
+]
+
+'name': 'FTL'
+
+'patterns': [
+    {
+        'include': 'text.html.basic'
+    }
+]
